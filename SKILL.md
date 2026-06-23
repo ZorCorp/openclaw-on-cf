@@ -45,7 +45,7 @@ into chat.
 ## Step 0: Get the kit and pick a name
 
 ```bash
-git clone --branch v1.0 https://github.com/laucw1213/openclaw-on-cf.git
+git clone --branch v1.0 https://github.com/ZorCorp/openclaw-on-cf.git
 cd openclaw-on-cf/deploy-kit
 (cd moltworker && npm install --no-audit --no-fund)   # one-time, ~30s–2min
 cp env.template .env && chmod 600 .env

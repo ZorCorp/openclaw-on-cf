@@ -19,7 +19,7 @@ is the single source of truth and works either way:
 In short:
 
 ```bash
-git clone --branch v1.0 https://github.com/laucw1213/openclaw-on-cf.git
+git clone --branch v1.0 https://github.com/ZorCorp/openclaw-on-cf.git
 cd openclaw-on-cf/deploy-kit
 (cd moltworker && npm install --no-audit --no-fund)
 # then follow SKILL.md from Step 0
